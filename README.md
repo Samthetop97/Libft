@@ -1,6 +1,6 @@
 # Libft
 
-Usage
+# Usage
 
 make without bonus functions.
 
